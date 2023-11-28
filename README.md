@@ -1,2 +1,2 @@
 # ToDoList-with-API-Calls
-A todo list with capable of API call, json
+A todo list capable of API calls, JSON
